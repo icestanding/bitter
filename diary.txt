@@ -1,0 +1,44 @@
+Oct 6 
+4pm-6pm
+Set up the environment on my mac lol cheers
+Oct7
+3pm-5pm
+begin to learn the cgi script see the test file
+Oct7
+9pm-11pm
+still learning perl cgi (focus on post, get and file reading)
+Oct8
+11:00pm-12:pm
+learning the new begining code
+Oct12
+11:00-12:20
+leaning html tag and attibutes, learning the perl cgi according to a book
+9:00pm-10:00pm
+finish login function
+Oct14
+3:00pm-7:00pm
+spend too much on understanding session and cookie
+Oct19
+10:00-15:00
+finish level1 and begin doing CSS 
+16:00-18:00
+begin to finish level2 and CSS
+18:00-22:00
+learning the CSS
+Oct20
+18:00-22:00
+Struggeling with html css and finish the login page css design
+Oct21
+9:00-16:00
+finish paging the user bitter and the person he following and searching function without CSS
+Oct22
+11:00-12:00
+testing
+Oct24
+5:00pm-10:30pm
+Do CSS and make paging for other page
+Oct25
+11:00-15:00
+finish and check level2
+
+  
